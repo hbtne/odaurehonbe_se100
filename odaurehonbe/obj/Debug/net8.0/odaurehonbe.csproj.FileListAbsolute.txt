@@ -1,0 +1,292 @@
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\appsettings.Development.json
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\appsettings.json
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\odaurehonbe.staticwebassets.runtime.json
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\odaurehonbe.exe
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Humanizer.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Npgsql.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\System.CodeDom.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.net\odaurehonbe\odaurehonbe\obj\Debug\net8.0\odaurehonbe.csproj.AssemblyReference.cache
+E:\.net\odaurehonbe\odaurehonbe\obj\Debug\net8.0\odaurehonbe.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net\odaurehonbe\odaurehonbe\obj\Debug\net8.0\odaurehonbe.AssemblyInfoInputs.cache
+E:\.net\odaurehonbe\odaurehonbe\obj\Debug\net8.0\odaurehonbe.AssemblyInfo.cs
+E:\.net\odaurehonbe\odaurehonbe\obj\Debug\net8.0\odaurehonbe.csproj.CoreCompileInputs.cache
+E:\.net\odaurehonbe\odaurehonbe\obj\Debug\net8.0\odaurehonbe.MvcApplicationPartsAssemblyInfo.cache
+E:\.net\odaurehonbe\odaurehonbe\obj\Debug\net8.0\odaurehonbe.RazorAssemblyInfo.cache
+E:\.net\odaurehonbe\odaurehonbe\obj\Debug\net8.0\odaurehonbe.RazorAssemblyInfo.cs
+E:\.net\odaurehonbe\odaurehonbe\obj\Debug\net8.0\odaurehonbe.sourcelink.json
+E:\.net\odaurehonbe\odaurehonbe\obj\Debug\net8.0\staticwebassets.build.json
+E:\.net\odaurehonbe\odaurehonbe\obj\Debug\net8.0\staticwebassets.development.json
+E:\.net\odaurehonbe\odaurehonbe\obj\Debug\net8.0\staticwebassets\msbuild.odaurehonbe.Microsoft.AspNetCore.StaticWebAssets.props
+E:\.net\odaurehonbe\odaurehonbe\obj\Debug\net8.0\staticwebassets\msbuild.build.odaurehonbe.props
+E:\.net\odaurehonbe\odaurehonbe\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.odaurehonbe.props
+E:\.net\odaurehonbe\odaurehonbe\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.odaurehonbe.props
+E:\.net\odaurehonbe\odaurehonbe\obj\Debug\net8.0\staticwebassets.pack.json
+E:\.net\odaurehonbe\odaurehonbe\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\.net\odaurehonbe\odaurehonbe\obj\Debug\net8.0\scopedcss\bundle\odaurehonbe.styles.css
+E:\.net\odaurehonbe\odaurehonbe\obj\Debug\net8.0\scopedcss\projectbundle\odaurehonbe.bundle.scp.css
+E:\.net\odaurehonbe\odaurehonbe\obj\Debug\net8.0\odaureho.E574DC80.Up2Date
+E:\.net\odaurehonbe\odaurehonbe\obj\Debug\net8.0\odaurehonbe.dll
+E:\.net\odaurehonbe\odaurehonbe\obj\Debug\net8.0\refint\odaurehonbe.dll
+E:\.net\odaurehonbe\odaurehonbe\obj\Debug\net8.0\odaurehonbe.pdb
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\odaurehonbe.deps.json
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\odaurehonbe.runtimeconfig.json
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\odaurehonbe.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\odaurehonbe.pdb
+E:\.net\odaurehonbe\odaurehonbe\obj\Debug\net8.0\odaurehonbe.genruntimeconfig.cache
+E:\.net\odaurehonbe\odaurehonbe\obj\Debug\net8.0\ref\odaurehonbe.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\EPPlus.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\EPPlus.Interfaces.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\itext.barcodes.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\itext.bouncy-castle-connector.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\itext.forms.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\itext.io.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\itext.kernel.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\itext.layout.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\itext.pdfa.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\itext.pdfua.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\itext.sign.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\itext.styledxmlparser.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\itext.svg.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\itext.commons.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+E:\.net\odaurehonbe\odaurehonbe\bin\Debug\net8.0\itext.bouncy-castle-adapter.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\appsettings.json
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\odaurehonbe.staticwebassets.runtime.json
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\odaurehonbe.exe
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\odaurehonbe.deps.json
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\odaurehonbe.runtimeconfig.json
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\odaurehonbe.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\odaurehonbe.pdb
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\EPPlus.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\EPPlus.Interfaces.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Humanizer.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\itext.barcodes.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\itext.bouncy-castle-connector.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\itext.forms.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\itext.io.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\itext.kernel.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\itext.layout.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\itext.pdfa.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\itext.pdfua.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\itext.sign.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\itext.styledxmlparser.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\itext.svg.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\itext.bouncy-castle-adapter.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\itext.commons.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Npgsql.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\obj\Debug\net8.0\odaurehonbe.csproj.AssemblyReference.cache
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\obj\Debug\net8.0\odaurehonbe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\obj\Debug\net8.0\odaurehonbe.AssemblyInfoInputs.cache
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\obj\Debug\net8.0\odaurehonbe.AssemblyInfo.cs
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\obj\Debug\net8.0\odaurehonbe.csproj.CoreCompileInputs.cache
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\obj\Debug\net8.0\odaurehonbe.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\obj\Debug\net8.0\odaurehonbe.RazorAssemblyInfo.cache
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\obj\Debug\net8.0\odaurehonbe.RazorAssemblyInfo.cs
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\obj\Debug\net8.0\odaurehonbe.sourcelink.json
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\obj\Debug\net8.0\staticwebassets\msbuild.odaurehonbe.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\obj\Debug\net8.0\staticwebassets\msbuild.build.odaurehonbe.props
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.odaurehonbe.props
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.odaurehonbe.props
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\obj\Debug\net8.0\scopedcss\bundle\odaurehonbe.styles.css
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\obj\Debug\net8.0\scopedcss\projectbundle\odaurehonbe.bundle.scp.css
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\obj\Debug\net8.0\odaureho.E574DC80.Up2Date
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\obj\Debug\net8.0\odaurehonbe.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\obj\Debug\net8.0\refint\odaurehonbe.dll
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\obj\Debug\net8.0\odaurehonbe.pdb
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\obj\Debug\net8.0\odaurehonbe.genruntimeconfig.cache
+C:\Users\HP CENTER\odaurehonbe\odaurehonbe\odaurehonbe\obj\Debug\net8.0\ref\odaurehonbe.dll

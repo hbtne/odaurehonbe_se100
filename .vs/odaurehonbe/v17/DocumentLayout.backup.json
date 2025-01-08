@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.net\\odaurehonbe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7A0DEB-609B-4DC4-8591-8CC7454B43B2}|odaurehonbe\\odaurehonbe.csproj|e:\\.net\\odaurehonbe\\odaurehonbe\\migrations\\20241126121504_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F7A0DEB-609B-4DC4-8591-8CC7454B43B2}|odaurehonbe\\odaurehonbe.csproj|solutionrelative:odaurehonbe\\migrations\\20241126121504_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7A0DEB-609B-4DC4-8591-8CC7454B43B2}|odaurehonbe\\odaurehonbe.csproj|e:\\.net\\odaurehonbe\\odaurehonbe\\data\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F7A0DEB-609B-4DC4-8591-8CC7454B43B2}|odaurehonbe\\odaurehonbe.csproj|solutionrelative:odaurehonbe\\data\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7A0DEB-609B-4DC4-8591-8CC7454B43B2}|odaurehonbe\\odaurehonbe.csproj|e:\\.net\\odaurehonbe\\odaurehonbe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9F7A0DEB-609B-4DC4-8591-8CC7454B43B2}|odaurehonbe\\odaurehonbe.csproj|solutionrelative:odaurehonbe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7A0DEB-609B-4DC4-8591-8CC7454B43B2}|odaurehonbe\\odaurehonbe.csproj|e:\\.net\\odaurehonbe\\odaurehonbe\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F7A0DEB-609B-4DC4-8591-8CC7454B43B2}|odaurehonbe\\odaurehonbe.csproj|solutionrelative:odaurehonbe\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241126121504_init.cs",
+              "DocumentMoniker": "E:\\.net\\odaurehonbe\\odaurehonbe\\Migrations\\20241126121504_init.cs",
+              "RelativeDocumentMoniker": "odaurehonbe\\Migrations\\20241126121504_init.cs",
+              "ToolTip": "E:\\.net\\odaurehonbe\\odaurehonbe\\Migrations\\20241126121504_init.cs",
+              "RelativeToolTip": "odaurehonbe\\Migrations\\20241126121504_init.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T12:15:05.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\.net\\odaurehonbe\\odaurehonbe\\Data\\Customer.cs",
+              "RelativeDocumentMoniker": "odaurehonbe\\Data\\Customer.cs",
+              "ToolTip": "E:\\.net\\odaurehonbe\\odaurehonbe\\Data\\Customer.cs",
+              "RelativeToolTip": "odaurehonbe\\Data\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T12:03:57.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\.net\\odaurehonbe\\odaurehonbe\\appsettings.json",
+              "RelativeDocumentMoniker": "odaurehonbe\\appsettings.json",
+              "ToolTip": "E:\\.net\\odaurehonbe\\odaurehonbe\\appsettings.json",
+              "RelativeToolTip": "odaurehonbe\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-26T11:59:09.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\.net\\odaurehonbe\\odaurehonbe\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "odaurehonbe\\Data\\AppDbContext.cs",
+              "ToolTip": "E:\\.net\\odaurehonbe\\odaurehonbe\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "odaurehonbe\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:56:47.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 388,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
