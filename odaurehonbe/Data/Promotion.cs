@@ -11,7 +11,7 @@ public partial class Promotion
 
     public string Name { get; set; } = null!;
 
-    public float DiscountPercent { get; set; }
+    public decimal DiscountPercent { get; set; }
 
     public decimal Discount { get; set; }
 
@@ -19,6 +19,7 @@ public partial class Promotion
 
     public DateTime EndDate { get; set; }
 
+    public int Type { get; set; }
     public int? PaymentID { get; set; }
 
     public virtual Payment? Payment { get; set; }

@@ -16,6 +16,7 @@ namespace odaurehonbe.Controllers
         [HttpGet]
         public async Task<IActionResult> GetPaymentDetails(int busBusRouteId, int customerId)
         {
+
           
             var busBusRoute = await _context.BusBusRoutes
                 .Include(b => b.BusRoute)
@@ -50,28 +51,62 @@ namespace odaurehonbe.Controllers
 
             return Ok(paymentDetails);
         }
-        [HttpGet("promo")]
-        public async Task<IActionResult> GetPromoDetails(int promoId)
+       [HttpGet("promo")]
+public async Task<IActionResult> GetPromoDetails(int promoId)
+{
+    var now = DateTime.UtcNow.AddHours(7); 
+    var promo = await _context.Promotions
+        .Where(p => p.PromoID == promoId && p.StartDate <= now && p.EndDate >= now) 
+        .Select(p => new { p.DiscountPercent })
+        .FirstOrDefaultAsync();
+
+    if (promo == null)
+    {
+        return NotFound("Promo not found or not valid.");
+    }
+
+    return Ok(new { DiscountPercentage = promo.DiscountPercent });
+}
+
+//         [HttpGet("promotions")]
+// public async Task<IActionResult> GetAllPromotions()
+// {
+//     var now = DateTime.UtcNow;
+
+//     var promotions = await _context.Promotions
+//         .Where(p => p.StartDate <= now && p.EndDate >= now)
+//         .Select(p => new { p.PromoID, p.PromoName })
+//         .ToListAsync();
+
+//     return Ok(promotions);
+// }
+[HttpGet("promotions")]
+public async Task<IActionResult> GetAllPromotions()
+{
+    var now = DateTime.UtcNow;
+
+    var promotions = await _context.Promotions
+        .Where(p => p.StartDate <= now && p.EndDate >= now)
+        .Select(p => new 
         {
-            var now = DateTime.UtcNow; 
+            p.PromoID,
+            PromoName = p.Name,
+            p.DiscountPercent,
+            p.StartDate,
+            p.EndDate
+        })
+        .ToListAsync();
 
-            var promo = await _context.Promotions
-                .Where(p => p.PromoID == promoId && p.StartDate <= now && p.EndDate >= now)
-                .Select(p => new { p.DiscountPercent })
-                .FirstOrDefaultAsync();
+    if (promotions == null || promotions.Count == 0)
+    {
+        return NotFound("No promotions available.");
+    }
 
-            if (promo == null)
-            {
-                return NotFound("Promo not found or not valid.");
-            }
+    return Ok(promotions);
+}
 
-            var promoDetails = new
-            {
-                DiscountPercentage = promo.DiscountPercent
-            };
 
-            return Ok(promoDetails);
-        }
+
         [HttpPost("create")]
         public async Task<IActionResult> CreatePayment(Payment payment, int id)
         {
@@ -96,7 +131,7 @@ namespace odaurehonbe.Controllers
                     }
                     else
                     {
-                        return NotFound("ID not associated with any Customer or Staff.");
+                        return NotFound("ID hợp lệ.");
                     }
                 }
 

@@ -10,9 +10,10 @@
         public string? Gender { get; set; }
         public string? UserType { get; set; }
         public string? PhoneNumber { get; set; }
-        public string? LicenseNumber { get; set; } // Chỉ có cho Driver
+        public string? LicenseNumber { get; set; } 
         public string? Address { get; set; }       
-        public DateOnly? HireDate { get; set; }     // Chỉ có cho TicketClerk
+        public DateOnly? HireDate { get; set; }     
+        public int? LoyaltyPoints { get; set; } 
     }
 
 }

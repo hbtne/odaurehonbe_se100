@@ -16,6 +16,6 @@ public partial class Customer
     public string PhoneNumber { get; set; } = null!;
 
     public string Address { get; set; } = null!;
-
+    public int LoyaltyPoints { get; set; } = 0; 
     public virtual Account Account { get; set; } = null!;
 }

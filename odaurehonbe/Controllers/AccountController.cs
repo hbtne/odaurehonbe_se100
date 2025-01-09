@@ -12,6 +12,86 @@ namespace odaurehonbe.Controllers
     {
         private readonly AppDbContext _context;
         private readonly ILogger<AccountController> _logger;
+         public class LoyaltyController : ControllerBase
+    {
+        private readonly AppDbContext _context;
+
+        public LoyaltyController(AppDbContext context)
+        {
+            _context = context;
+        }
+
+        [HttpGet("{customerId}/loyalty")]
+        public async Task<IActionResult> GetLoyaltyInfo(int customerId)
+        {
+            var customer = await _context.Customers.FirstOrDefaultAsync(c => c.AccountID == customerId);
+
+            if (customer == null)
+            {
+                return NotFound("Customer not found.");
+            }
+
+            var discount = CalculateDiscount(customer.LoyaltyPoints);
+
+            return Ok(new
+            {
+                LoyaltyPoints = customer.LoyaltyPoints,
+                Discount = discount * 100
+            });
+        }
+
+        [HttpPost("{customerId}/loyalty/add")]
+        public async Task<IActionResult> AddLoyaltyPoints(int customerId, [FromBody] int points)
+        {
+            var customer = await _context.Customers.FirstOrDefaultAsync(c => c.AccountID == customerId);
+
+            if (customer == null)
+            {
+                return NotFound("Customer not found.");
+            }
+
+            customer.LoyaltyPoints += points;
+            await _context.SaveChangesAsync();
+
+            return Ok(new { Message = "Points added successfully.", LoyaltyPoints = customer.LoyaltyPoints });
+        }
+
+        private decimal CalculateDiscount(int loyaltyPoints)
+        {
+            if (loyaltyPoints < 100)
+                return 0;
+            else if (loyaltyPoints < 400)
+                return 0.05m; 
+            else if (loyaltyPoints < 800)
+                return 0.10m;
+            else if (loyaltyPoints < 1000)
+                return 0.15m;
+            else
+                return 0.20m; 
+        }
+
+        [HttpPost("{customerId}/apply-first-purchase")]
+        public async Task<IActionResult> ApplyFirstPurchaseDiscount(int customerId)
+        {
+            var customer = await _context.Customers.FirstOrDefaultAsync(c => c.AccountID == customerId);
+
+            if (customer == null)
+            {
+                return NotFound("Customer not found.");
+            }
+
+            if (customer.LoyaltyPoints > 0)
+            {
+                return BadRequest("First purchase discount already used.");
+            }
+
+            var discount = 0.15m; 
+            var maxDiscount = 500m;
+
+            return Ok(new { DiscountRate = discount, MaxDiscount = maxDiscount });
+        }
+    }
+
         public AccountController(AppDbContext context)
         {
             _context = context;
@@ -72,7 +152,8 @@ namespace odaurehonbe.Controllers
                             Password = account.Password,
                             Gender = customer.Gender,
                             PhoneNumber = customer.PhoneNumber,
-                            Address = customer.Address
+                            Address = customer.Address,
+                            LoyaltyPoints = customer.LoyaltyPoints 
                         } : null;
 
                     default:
@@ -83,64 +164,6 @@ namespace odaurehonbe.Controllers
             return Ok(result);
         }
 
-        //[HttpGet("{keyword}")]
-        //public async Task<IActionResult> SearchAccounts(string? keyword)
-        //{
-        //    var accounts = await _context.Accounts
-        //        .Include(a => a.Customer)
-        //        .Include(a => a.Driver)
-        //        .Include(a => a.TicketClerk)
-        //       .Where(a => string.IsNullOrEmpty(keyword) ||
-        //    a.UserName.Contains(keyword) ||
-        //    a.AccountID.ToString().Contains(keyword) ||
-        //    (a.Customer != null && a.Customer.Name.Contains(keyword)) ||
-        //    (a.Driver != null && a.Driver.Name.Contains(keyword)) ||
-        //    (a.TicketClerk != null && a.TicketClerk.Name.Contains(keyword)))
-        //        .ToListAsync();
-
-        //    var accountDtos = accounts.Select(account => account.UserType switch
-        //    {
-        //        "Driver" when account.Driver != null => new AccountDto
-        //        {
-        //            AccountID = account.AccountID,
-        //            UserName = account.UserName,
-        //            Status = account.Status,
-        //            UserType = account.UserType,
-        //            Password = account.Password,
-        //            Name = account.Driver.Name,
-        //            Gender = account.Driver.Gender,
-        //            PhoneNumber = account.Driver.PhoneNumber,
-        //            LicenseNumber = account.Driver.LicenseNumber
-        //        },
-        //        "TicketClerk" when account.TicketClerk != null => new AccountDto
-        //        {
-        //            AccountID = account.AccountID,
-        //            UserName = account.UserName,
-        //            Status = account.Status,
-        //            UserType = account.UserType,
-        //            Password = account.Password,
-        //            Name = account.TicketClerk.Name,
-        //            Gender = account.TicketClerk.Gender,
-        //            PhoneNumber = account.TicketClerk.PhoneNumber,
-        //            HireDate = account.TicketClerk.HireDate
-        //        },
-        //        "Customer" when account.Customer != null => new AccountDto
-        //        {
-        //            AccountID = account.AccountID,
-        //            UserName = account.UserName,
-        //            Status = account.Status,
-        //            Name = account.Customer.Name,
-        //            Gender = account.Customer.Gender,
-        //            UserType = account.UserType,
-        //            Password = account.Password,
-        //            PhoneNumber = account.Customer.PhoneNumber,
-        //            Address = account.Customer.Address
-        //        },
-        //        _ => null
-        //    }).Where(dto => dto != null).ToList();
-
-        //    return Ok(accountDtos);
-        //}
  [HttpGet("{id}")]
 public async Task<IActionResult> GetAccountById(int id)
 {
@@ -335,7 +358,7 @@ public async Task<IActionResult> GetAccountById(int id)
                         Name = accountDto.Name,
                         Gender = accountDto.Gender,
                         PhoneNumber = accountDto.PhoneNumber,
-                        HireDate = accountDto.HireDate.Value // Assuming HireDate is required for TicketClerk
+                        HireDate = accountDto.HireDate.Value 
                     };
                     account.TicketClerk = ticketClerk;
                     _context.Accounts.Add(account);
@@ -365,11 +388,11 @@ public async Task<IActionResult> GetAccountById(int id)
              
                 await _context.SaveChangesAsync();
 
-                return CreatedAtAction(nameof(CreateAccount), new { id = account.AccountID }, accountDto);  // Trả về HTTP 201
+                return CreatedAtAction(nameof(CreateAccount), new { id = account.AccountID }, accountDto); 
             }
             catch (Exception ex)
             {
-                return StatusCode(500, "Internal server error: " + ex.Message);  // Trả về lỗi nếu có
+                return StatusCode(500, "Internal server error: " + ex.Message);  
             }
         }
 
